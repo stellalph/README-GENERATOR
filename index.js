@@ -83,7 +83,7 @@ let promptUser = () => {
 // function to write README file
 const writeToFile = util.promisify(fs.writeFile);
 
-// function to initialize program - 9-3 ex. 40
+// function to initialize program 
 let init = async () => {
     console.log("Welcome to the README.md Generator! You will be guided through a series of questions to create the best README ever! If you don't have an answer right now, you can leave it blank. At the end, you will have a README.md file for your project.");
     try {
