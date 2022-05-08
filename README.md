@@ -14,12 +14,12 @@ A command-line application that dynamically generates a README file.
 * [License](#license)
 
 ## Installation
-Ensure that Node.js and npm are installed.  Then follow these steps:
+Ensure that Node.js and npm are installed.  The steps are :-
 
-*Fork the repo 
-*Run npm init 
-*Run npm i inquirer 
-*Run node index.js 
+ * Fork the repo 
+ * Run npm init 
+ * Run npm i inquirer 
+ * Run node index.js 
 
 ## Usage
 When the application starts, answer each prompt or leave blank and when all the questions have been answered, a file named README will be generated within the local folder.
