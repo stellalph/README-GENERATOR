@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-A command-line application that dynamically generates a README file.  
+A command-line application that dynamically generates README file.  
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,21 +14,21 @@ A command-line application that dynamically generates a README file.
 * [License](#license)
 
 ## Installation
-Ensure that Node.js and npm are installed.  The steps are :-
-
- * Fork the repo 
- * Run npm init 
- * Run npm i inquirer 
- * Run node index.js 
+Ensure that node.js and npm are installed. 
 
 ## Usage
-When the application starts, answer each prompt or leave blank and when all the questions have been answered, a file named README will be generated within the local folder.
+When the application starts, answer all the questions and a file named README will be generated.
+
+![alt text](image01.png)
+
+[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1A0cs0BspeifDEqJflL3K8pC2Zh-gjD7Z/view)]
+https://drive.google.com/file/d/1A0cs0BspeifDEqJflL3K8pC2Zh-gjD7Z/view
 
 ## Contributing
-Fork the repo and create a pull request.  Following code review, your feature will be merged.
+Fork the repo and do a pull request.
 
 ## Tests
-Continous test carried out to ensure that the project meet the acceptance criteria.
+Continously until all the criteria has been met for the project.
 
 ## Questions
 
@@ -36,9 +36,7 @@ Contact email: stella.ling@outlook.com
 
 GitHub: [stellalph](https://github.com/stellalph)
 
-# References
-
-09 The Unit Ahead Materials, The University of Adelaide
+The Unit Ahead Materials 09
 
 ## License
   
