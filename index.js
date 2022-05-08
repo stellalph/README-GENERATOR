@@ -1,59 +1,65 @@
-// Requires...
+
 // Read/write files
 const fs = require("fs");
+
 // Util.promisify
+// Importing utilities module
+// This method accepts a single parameter func that holds the callback based function
+// this method returns a promise based function
 const util = require("util");
+
 // Question prompts
 const inquirer = require("inquirer");
+
 // Generate markdown function
 const generateMarkdown = require("./utils/generateMarkdown.js");
 
-// Array of questions for user - some text taken from the provided Good-README-Guide
+// Array of questions for user input
 const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'Enter a title for your project.'
+        message: 'Title of the project.'
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Enter a description for your project.'
+        message: 'Description of the project.'
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'Enter installation instructions for your project. If applicable, provide a step-by-step description of how to get the development environment running.'
+        message: 'Installation instructions for the project.'
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Enter instructions and examples for use. Include screenshots as needed.'
+        message: 'Instructions, examples and images for on how to use.'
     },
     {
         type: 'input',
         name: 'contributing',
-        message: 'If you would like other developers to contribute to this project, enter contribution guidelines for how to do so.'
+        message: 'Contribution instructions for other developers'
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'If you have tests for your application, enter test instructions and provide examples on how to run them.'
+        message: 'Testing protocols for the project.'
     },
     {
         type: 'input',
         name: 'email',
-        message: 'Enter your email address.'
+        message: 'Email Address.'
     },
     {
         type: 'input',
         name: 'github',
-        message: 'Enter your GitHub username.'
+        message: 'Github username.'
     },
     {
         type: 'input',
         name: 'addlquestions',
-        message: 'If applicable, enter additional instructions on how to reach you with questions.'
+        message: 'References and Others.'
     },
     
     {
@@ -85,7 +91,7 @@ const writeToFile = util.promisify(fs.writeFile);
 
 // function to initialize program 
 let init = async () => {
-    console.log("Welcome to the README.md Generator! You will be guided through a series of questions to create the best README ever! If you don't have an answer right now, you can leave it blank. At the end, you will have a README.md file for your project.");
+    console.log("Hello, this is a README.md Generator! You will be guided through a series of questions to create the README file. If you don't have an answer right now, you can leave it blank. At the end, you will have a README.md file for your project.");
     try {
         // Get user answers
         const answers = await promptUser();
