@@ -21,15 +21,7 @@ Ensure that node.js and npm are installed.
 When the application starts, answer each prompt or leave blank and when all the questions are answered, a file named README will be generated within the local folder.
 
 ## Contributing
-To contribute to this application, create a pull request.  The steps taken to achieve this:-
-
-  * Fork the repo
-  * Create a feature branch 
-  * Commit your new feature
-  * Push your branch (git push)
-  * Create a new pull request
-
-Following a code review, your feature will be merged.
+To contribute to this application, create a pull request.  Following a code review, your feature will be merged.
 
 ## Tests
 Continous testing to ensure that all the criteria for the project has been met.
@@ -41,7 +33,7 @@ Contact email: stella.ling@outlook.com
 GitHub: [stellalph](https://github.com/stellalph)
 
 The Unit Ahead Materials 09
-
+git 
 ## License
   
 This project is licensed under the terms of the MIT license.
