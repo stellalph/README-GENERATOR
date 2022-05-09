@@ -61,7 +61,7 @@ To contribute to this application, create a pull request.  Following a code revi
 Continous testing to ensure that all the criteria for the project has been met, that is :-
 
 
- ## User Story
+ <em>User Story</em>
 
 ```md
 AS A developer
@@ -69,7 +69,7 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
 
-## Acceptance Criteria
+<em>Acceptance Criteria</em>
 
 ```md
 GIVEN a command-line application that accepts user input
@@ -98,7 +98,8 @@ GitHub: [stellalph](https://github.com/stellalph)
 
 
 Reference:  09 The Unit Ahead Materials 
-
+The answer can be replaced on how to reach me on additional questions.
+If you do not receive an answer from me within two days, I can't answer your questions.  Thank you for your understanding.
 
 ## License
   
