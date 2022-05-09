@@ -63,10 +63,11 @@ This project is licensed under the terms of the MIT license.
 
 The sample README generated using the application before adding more comments to the README:-
 
-   [SAMPLE README.md](GitHub-README.png) - GitHub
-   [SAMPLE README.md](LocalMach-README.png) - Local Machine
+   [SAMPLE README.md1](GitHub-README.png) - GitHub
+   [SAMPLE README.md2](Lm-README.png) - Local Machine
 
 The link to the video to show the walkthrough of the user 's input to generate README file.
+Please click on the link <strong> VIDEO </strong> below to access the video.
 
 [VIDEO](https://drive.google.com/file/d/1HK2mjneCTrPFAZN4J7GM6ry538QvUsMv/view)
 
