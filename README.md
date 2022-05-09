@@ -97,9 +97,10 @@ Contact email: stella.ling@outlook.com
 GitHub: [stellalph](https://github.com/stellalph)
 
 
-Reference:  09 The Unit Ahead Materials 
-The answer can be replaced on how to reach me on additional questions.
-If you do not receive an answer from me within two days, I can't answer your questions.  Thank you for your understanding.
+Reference:  09 The Unit Ahead Materials. 
+
+  * The answer can be replaced on how to reach me on additional questions.
+    If you do not receive an answer from me within two days, I can't answer your questions.  Thank you for your understanding.
 
 ## License
   
