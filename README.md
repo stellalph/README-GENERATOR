@@ -7,8 +7,8 @@ A command-line application that generates a professional README file from the us
 
 The sample README generated using the application before adding more comments to the README:-
 
-   [SAMPLE README.md1](GitHub-README.png) - GitHub
-   [SAMPLE README.md2](Lm-README.png) - Local Machine
+   * [SAMPLE README.md1](GitHub-README.png) - GitHub
+   * [SAMPLE README.md2](Lm-README.png) - Local Machine
 
 The link to the video to show the walkthrough of the user 's input to generate README file.
 Please click on the link <strong> VIDEO </strong> below to access the video.
@@ -17,7 +17,7 @@ Please click on the link <strong> VIDEO </strong> below to access the video.
 
 The repository name is README-GENERATOR and the URL of the GitHub repository is https://github.com/stellalph/README-GENERATOR.git 
 
-[URL GitHub repository](https://github.com/stellalph/README-GENERATOR.git)
+* [URL GitHub repository](https://github.com/stellalph/README-GENERATOR.git)
 
 
 ## Table of Contents
