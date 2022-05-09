@@ -13,7 +13,7 @@ The sample README generated using the application before adding more comments to
 The link to the video to show the walkthrough of the user 's input to generate README file.
 Please click on the link <strong> VIDEO </strong> below to access the video.
 
-[VIDEO](https://drive.google.com/file/d/1HK2mjneCTrPFAZN4J7GM6ry538QvUsMv/view)
+ * [VIDEO](https://drive.google.com/file/d/1HK2mjneCTrPFAZN4J7GM6ry538QvUsMv/view)
 
 The repository name is README-GENERATOR and the URL of the GitHub repository is https://github.com/stellalph/README-GENERATOR.git 
 
